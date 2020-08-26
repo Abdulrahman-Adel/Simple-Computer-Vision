@@ -12,3 +12,11 @@ Original Photo             |  Sketch
 
 ![ezgif com-optimize](https://user-images.githubusercontent.com/57441828/91080198-78ada800-e645-11ea-9e71-ed803522aabc.gif)
 
+---
+
+## Detecting Shapes Contours
+
+Original Photo             |  After
+:-------------------------:|:-------------------------:
+ ![unnamed](https://user-images.githubusercontent.com/57441828/91242573-1b4e4f80-e748-11ea-87a8-afb0f9c1aac8.jpg)                          | ![Contour](https://user-images.githubusercontent.com/57441828/91242558-0e316080-e748-11ea-8854-589e683f59ee.jpg)
+    
